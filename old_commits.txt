@@ -1,0 +1,23 @@
+commit 1b9b4bb31af571bcf024c3789f9ac892ba6e2b60 (HEAD -> master)
+Author: Jacob Kristersson <jacob@kristersson.com>
+Date:   Sun Sep 30 18:54:55 2018 +0200
+
+    changed the li
+
+commit 6c10c4b666c1b33f76a9fbe745665b2a1cfd5a6f
+Author: Jacob Kristersson <jacob@kristersson.com>
+Date:   Sun Sep 30 18:53:12 2018 +0200
+
+    This commit reverts to f5da01b9fb2984a90893d
+
+commit 41244a91186223938d3c1b1e3c2ee6a9569170ad
+Author: Jacob Kristersson <jacob@kristersson.com>
+Date:   Sun Sep 30 16:34:33 2018 +0200
+
+    Rearange the items to bring on a trip
+
+commit f5da01b9fb2984a90893d83eb5a209ae867fb6aa
+Author: Jacob Kristersson <jacob@kristersson.com>
+Date:   Sun Sep 30 15:48:32 2018 +0200
+
+    Deleted old file
